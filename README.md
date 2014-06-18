@@ -1,0 +1,4 @@
+testplugin
+==========
+
+test plugin
